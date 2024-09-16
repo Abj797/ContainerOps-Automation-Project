@@ -21,7 +21,7 @@ Kubernetes: Orchestrates containerized applications and ensures scalability.
 Ansible: Configuration management for provisioning and software installation.
 
 ## Architecture Diagram
-
+![Flowchart of project.](https://miro.com/diagramming/online/board/uXjVLeA2V5Y=/?boardAccessToken=WFi7hZCvcPSRoHGTS8d8GerXsesr5dzJ)
 
 
 ## Workflow
