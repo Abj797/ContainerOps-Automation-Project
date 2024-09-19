@@ -13,11 +13,17 @@ CI/CD Pipeline: GitHub integration triggers CodeBuild for continuous integration
 
 ## Tools & Technologies
 Amazon EC2: Cloud infrastructure to host application components.
+
 Git & GitHub: Version control and code repository.
+
 Docker: Containerization for applications.
+
 Terraform: Infrastructure as code for automated provisioning.
+
 Jenkins: Automation server for managing CI/CD pipelines.
+
 Kubernetes: Orchestrates containerized applications and ensures scalability.
+
 Ansible: Configuration management for provisioning and software installation.
 
 ## Architecture Diagram
@@ -36,18 +42,28 @@ Ansible: Configuration management for provisioning and software installation.
 
 ## Workflow
 Version Control: Code is managed in a GitHub repository.
+
 Continuous Integration (CI): When a new commit is pushed to the main branch, it triggers a build in AWS CodeBuild.
+
 Infrastructure Automation: Terraform automates the creation of EC2 instances and other infrastructure components.
+
 Configuration Management: Ansible configures the instances, installing necessary software and setting up the environment.
+
 Containerization: The application is Dockerized, and the Docker images are pushed to a container registry.
+
 Continuous Deployment (CD): Jenkins orchestrates the deployment process, using Kubernetes to manage containerized application deployments.
+
 Production Environment: The Dockerized app is deployed in a Kubernetes cluster, ensuring scalability and fault tolerance.
 
 ## Installation
 AWS Console: Sign up AWS Console with the necessary credentials.
+
 Terraform: Install Terraform.
+
 Docker: Install Docker.
+
 Kubernetes: Ensure you have a running Kubernetes cluster.
+
 Jenkins: Set up Jenkins with Docker and Kubernetes plugins installed.
 
 ## Steps
