@@ -28,6 +28,10 @@ Ansible: Configuration management for provisioning and software installation.
 
 ## Architecture Diagram
 
+![Capstone Project-2](https://github.com/user-attachments/assets/d7914a89-79f2-493e-9a85-3fdb8bd38da3)
+
+![Capstone Project-2 new](https://github.com/user-attachments/assets/64157eec-0a44-4448-9c6c-d1ed1b9f0fbd)
+
 ![image](https://github.com/user-attachments/assets/99d207e9-2bb9-4fe0-a1f1-a76381e36b04)
 
 ![image](https://github.com/user-attachments/assets/a1462025-4bcf-4edf-a99b-28d2114bbdb9)
