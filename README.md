@@ -21,8 +21,18 @@ Kubernetes: Orchestrates containerized applications and ensures scalability.
 Ansible: Configuration management for provisioning and software installation.
 
 ## Architecture Diagram
-![Flowchart of project.](https://miro.com/diagramming/online/board/uXjVLeA2V5Y=/?boardAccessToken=WFi7hZCvcPSRoHGTS8d8GerXsesr5dzJ)
 
+![image](https://github.com/user-attachments/assets/99d207e9-2bb9-4fe0-a1f1-a76381e36b04)
+
+![image](https://github.com/user-attachments/assets/a1462025-4bcf-4edf-a99b-28d2114bbdb9)
+
+![image](https://github.com/user-attachments/assets/aeecf8f9-2c51-404f-b361-39cf4678ea5f)
+
+![image](https://github.com/user-attachments/assets/d624676a-0d54-4aec-ab9b-e3d1cc6eee2d)
+
+![image](https://github.com/user-attachments/assets/695928c6-9ea5-4660-91c2-bb813be99352)
+
+![image](https://github.com/user-attachments/assets/6d9e9da9-cea2-4517-bf9c-03871278639d)
 
 ## Workflow
 Version Control: Code is managed in a GitHub repository.
